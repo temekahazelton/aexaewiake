@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quoteadai.100maratonu.lt/sitemap.xml
